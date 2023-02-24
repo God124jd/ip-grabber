@@ -20,4 +20,4 @@ fwrite($fh, 'Port Number: '."".$port ."\n");
 fwrite($fh, 'User Agent: '."".$agent ."\n");
 fwrite($fh, 'HTTP Referer: '."".$ref ."\n\n");
 fclose($fh);
-?>
+?> php
